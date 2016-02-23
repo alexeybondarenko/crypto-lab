@@ -39,4 +39,6 @@ var caesarShift = function (str, amount) {
 
 };
 
-console.log(caesarShift("Bondarenko Oleksii Sergiyovisch", 19));
+for(var i = 0; i <= 26; i++ ) {
+    console.log('ROT'+i,'\t', caesarShift("Bondarenko Oleksii Sergiyovisch", i));
+}
