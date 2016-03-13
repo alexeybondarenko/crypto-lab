@@ -39,6 +39,8 @@ var caesarShift = function (str, amount) {
 
 };
 
-for(var i = 0; i <= 26; i++ ) {
-    console.log('ROT'+i,'\t', caesarShift("Bondarenko Oleksii Sergiyovisch", i));
-}
+module.exports = caesarShift;
+
+//for(var i = 0; i <= 26; i++ ) {
+//    console.log('ROT'+i,'\t', caesarShift("Bondarenko Oleksii Sergiyovisch", i));
+//}

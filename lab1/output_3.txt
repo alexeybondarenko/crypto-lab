@@ -1,0 +1,7 @@
+FW5 (Fxgn Bgwbobwnte Ikhvxwnkxl \ Atla)
+Max FW5 tezhkbmaf ikhwnvxl t atla otenx hy exgzma 128 ubml (= 16 urmxl).
+Max tezhkbmaf bl wxlvkbuxw bg KYV 1321 (Kxjnxlm yhk vhffxgm, ammi://ppp.ytjl.hkz/kyvl/kyv1321.amfe), tg xqmktvm ykhf pabva bl ikhobwxw uxehp.
+Lmxi 1. Tiixgw Itwwbgz Ubml
+Max fxlltzx bl "itwwxw" (xqmxgwxw) lh matm bml exgzma (bg ubml) bl vhgzknxgm mh 448, fhwneh 512. Matm bl, max fxlltzx bl xqmxgwxw lh matm bm bl cnlm 64 ubml lar hy uxbgz t fnembiex hy 512 ubml ehgz. Itwwbgz bl teptrl ixkyhkfxw, xoxg by max exgzma hy max fxlltzx bl tekxtwr vhgzknxgm mh 448, fhwneh 512. Itwwbgz bl ixkyhkfxw tl yheehpl: t lbgzex "1" ubm bl tiixgwxw mh max fxlltzx, tgw maxg "0" ubml tkx tiixgwxw lh matm max exgzma bg ubml hy max itwwxw fxlltzx uxvhfxl vhgzknxgm mh 448, fhwneh 512. Bg tee, tm extlm hgx ubm tgw tm fhlm 512 ubml tkx tiixgwxw.
+Lmxi 2. Tiixgw Exgzma
+T 64-ubm kxikxlxgmtmbhg hy u (max exgzma hy max fxlltzx uxyhkx max itwwbgz ubml pxkx twwxw) bl tiixgwxw mh max kxlnem hy max ikxobhnl lmxi. Bg max ngebdxer xoxgm matm u bl zkxtmxk matg 2^64, maxg hger max ehp-hkwxk 64 ubml hy u tkx nlxw. (Maxlx ubml tkx tiixgwxw tl mph 32-ubm phkwl tgw tiixgwxw ehp-hkwxk phkw ybklm bg tvvhkwtgvx pbma max ikxobhnl vhgoxgmbhgl.) Tm mabl ihbgm max kxlnembgz fxlltzx (tymxk itwwbgz pbma ubml tgw pbma u) atl t exgzma matm bl tg xqtvm fnembiex hy 512 ubml. Xjnbotexgmer, mabl fxlltzx atl t exgzma matm bl tg xqtvm fnembiex hy 16 (32-ubm) phkwl. Exm F[0... G-1] wxghmx max phkwl hy max kxlnembgz fxlltzx, paxkx G bl t fnembiex hy 16.
